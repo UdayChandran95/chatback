@@ -1,0 +1,45 @@
+
+ * {
+    font-family: 'Montserrat', sans-serif !important;
+  }
+
+
+
+  ::-webkit-scrollbar {
+    width: 0; 
+    background: transparent; 
+}
+
+.window .ce-my-message-body,
+.window .ce-their-message-body{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 14px;
+}
+
+  
+  .window{
+    height: 100vh;
+  }
+
+ .window .ce-message-date-text {
+    font-weight: 600 !important;
+    letter-spacing: 0.1px !important;
+    font-family: 'Montserrat', sans-serif !important;
+    color: rgb(173, 171, 171) !important;
+    font-size: 12px !important;
+    letter-spacing: -1px;
+}
+
+
+
+ .window .ce-their-message-timestamp,
+ .window .ce-my-message-timestamp{
+    font-family: 'Montserrat', sans-serif !important;
+ }
+
+
+ .window .ce-custom-message-input::placeholder { 
+    font-family: 'Montserrat', sans-serif !important;
+ }
+
+
